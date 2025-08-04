@@ -1,8 +1,0 @@
-
-
-from typing import List
-def deleteLastChar(word: str) -> str:
-  word = word[:-1] 
-  return word
-
-print (deleteLastChar('hi'))
